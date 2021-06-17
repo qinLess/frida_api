@@ -6,7 +6,7 @@
 - 代码里有加，自动重启，目标 app，frida-server（经过测试，android 7.x 以上没问题，6.x frida-server 会启动失败）
 
 # 使用
-##### 运行 `run.py` 启动服务，默认监听 `6999` 端口
+##### 运行 `run.py` 启动服务，默认监听 `6999` 端口（config.py 文件里修改）
 
 ## frida rpc
 在 `frida_hook` 文件夹下编写，例如某手，已有样例
