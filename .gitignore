@@ -1,0 +1,10 @@
+*/__pycache__
+test
+file
+logs
+captcha
+.DS_Store
+.idea
+woff/*
+*/woff
+__pycache__
